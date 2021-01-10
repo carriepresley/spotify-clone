@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+body {
+    background-color: #f1f3f8;
+    letter-spacing: 1px;
+    margin: 0;
+    transition: ease-in-out 0.6s;
+    font-family: "Lato", sans-serif; 
+}
+
+
+.login{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+
+.login > img{
+    width: 100%;
+}
+
+.login > a{
+    padding: 20px;
+    border-radius: 99px;
+    background-color: 
+
+
+}
+
+.login-button {
+    border: 0;
+    text-decoration: none;
+    outline: transparent;
+    font-weight: bold;
+    color: #5C5B5B;
+    border-radius: 100px;
+    font-size: 20px;
+    cursor: pointer;
+    box-shadow: 10px 10px 20px #e0e2e5, -10px -10px 20px #fff;
+    width: 300px;
+    height: 100px;
+    text-align: center;
+   text-justify: center;
+   display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.login-button-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+   text-justify: center;
+  
+
+  
+
+}
+
+
+
+.login-button:hover{
+    box-shadow: 2px 2px 2px 0 #dfe4ea inset, -2px -2px 2px 0 #fff inset;
+    position: relative;
+    top: 1px;
+    
+
+}
+
+.logo{
+    width: 233px;
+  
+}
+
+.logo-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+   text-justify: center;
+   width: 275px;
+   height: 275px;
+   box-shadow: 10px 10px 20px #e0e2e5, -10px -10px 20px #fff;
+   border-radius: 50%;
+    
+}
