@@ -4,11 +4,11 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import {DataLayer} from "./Components/DataLayer/DataLayer";
-import {initialState} from "./Components/DataLayer/reducer";
+import reducer, {initialState} from "./Components/DataLayer/reducer";
 
 ReactDOM.render(
   <React.StrictMode>
-  <DataLayer initialState={initialState} reducer>
+  <DataLayer initialState={initialState} reducer ={reducer}>
   <App />
   </DataLayer>
     
