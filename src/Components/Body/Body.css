@@ -1,0 +1,8 @@
+.body{
+    border: 1px solid black;
+    flex: 0.8;
+    background: linear-gradient(rgba(91, 87, 115), black);
+    height: 100vh;
+    color: white;
+    padding: 30px;
+}
