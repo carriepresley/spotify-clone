@@ -5,7 +5,7 @@ export const initialState = {
     item: null,
 
     //Remove after finished developing!
-    //token: "BQCKzc-Go0u3UDqbCK3GsYtbK-OggS5mzQ44N0Ku3srzbREy8K…S2woT8tTNY//LEDAcLKXQhFc2NTe3tSk-0uaESvPJVJkRbu0lVj",
+   //token: "BQCKzc-Go0u3UDqbCK3GsYtbK-OggS5mzQ44N0Ku3srzbREy8K…S2woT8tTNY//LEDAcLKXQhFc2NTe3tSk-0uaESvPJVJkRbu0lVj",
 
     token: null,
 };
